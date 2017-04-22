@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

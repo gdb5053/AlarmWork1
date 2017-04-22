@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/gdb5053/.android/build-cache/29bfd26081d2daf24fad9dad702080ec7c21bd6b/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/gdb5053/.android/build-cache/29bfd26081d2daf24fad9dad702080ec7c21bd6b/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/gdb5053/.android/build-cache/29bfd26081d2daf24fad9dad702080ec7c21bd6b/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/gdb5053/.android/build-cache/29bfd26081d2daf24fad9dad702080ec7c21bd6b/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/gdb5053/.android/build-cache/29bfd26081d2daf24fad9dad702080ec7c21bd6b/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/gdb5053/.android/build-cache/29bfd26081d2daf24fad9dad702080ec7c21bd6b/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]
