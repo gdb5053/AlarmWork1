@@ -2240,6 +2240,7 @@ containing a value of this type.
         public static final int actions=0x7f0b0070;
         public static final int activity_chooser_view_content=0x7f0b002e;
         public static final int add=0x7f0b001a;
+        public static final int alarmName=0x7f0b005d;
         public static final int alertTitle=0x7f0b0042;
         public static final int all=0x7f0b000d;
         public static final int always=0x7f0b0024;
@@ -2335,7 +2336,6 @@ containing a value of this type.
         public static final int useLogo=0x7f0b0019;
         public static final int withText=0x7f0b0028;
         public static final int wrap_content=0x7f0b0020;
-        public static final int zipCode=0x7f0b005d;
         public static final int zipCodeCalcButton=0x7f0b005e;
     }
     public static final class integer {

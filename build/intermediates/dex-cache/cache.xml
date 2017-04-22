@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/home/gdb5053/.android/build-cache/c78f0aa37e0c8ca6707ed786eeb2d45157d17654/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_077044b8aef986ee1841d06d1d516c68c5ea02b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/gdb5053/.android/build-cache/29bfd26081d2daf24fad9dad702080ec7c21bd6b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26e8e451944270c7f2a47f3178f25fe697292e2a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/gdb5053/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
         jumboMode="true"
         optimize="true"
@@ -48,21 +30,39 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="90f246948825a89a881bedfc30adc06ba0d6edfa">
-        <dex dex="/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a6def0f6b54031d1825c40be63a84e47d5aa22e1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/gdb5053/.android/build-cache/7b89ebce1a6047c177ef0f5da5a04e8ce8499c67/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
         <dex dex="/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81a9a15964f73bfd24a6b46d5af49665c7df2661/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gdb5053/.android/build-cache/c78f0aa37e0c8ca6707ed786eeb2d45157d17654/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_077044b8aef986ee1841d06d1d516c68c5ea02b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gdb5053/.android/build-cache/29bfd26081d2daf24fad9dad702080ec7c21bd6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26e8e451944270c7f2a47f3178f25fe697292e2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccfe4394dba6c993eb7208f5e95e8544ae251b4">
+        <dex dex="/home/gdb5053/Android-Code/AlarmWork/AlarmWork1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a6def0f6b54031d1825c40be63a84e47d5aa22e1/classes.dex" />
     </item>
     <item
         is-multidex="true"

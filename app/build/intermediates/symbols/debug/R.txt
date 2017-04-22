@@ -578,6 +578,7 @@ int id action_text 0x7f0b0062
 int id actions 0x7f0b0070
 int id activity_chooser_view_content 0x7f0b002e
 int id add 0x7f0b001a
+int id alarmName 0x7f0b005d
 int id alertTitle 0x7f0b0042
 int id all 0x7f0b000d
 int id always 0x7f0b0024
@@ -673,7 +674,6 @@ int id up 0x7f0b0008
 int id useLogo 0x7f0b0019
 int id withText 0x7f0b0028
 int id wrap_content 0x7f0b0020
-int id zipCode 0x7f0b005d
 int id zipCodeCalcButton 0x7f0b005e
 int integer abc_config_activityDefaultDur 0x7f0c0000
 int integer abc_config_activityShortDur 0x7f0c0001
